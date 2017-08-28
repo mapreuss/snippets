@@ -7,7 +7,7 @@ Use in wordpress:
 
 Renders
 
-!(https://image.prntscr.com/image/Vr8INA5ZR9yr698aFZlhBg.png)
+![](https://image.prntscr.com/image/Vr8INA5ZR9yr698aFZlhBg.png)
 
 ## File
 
