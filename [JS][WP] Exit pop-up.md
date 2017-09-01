@@ -41,9 +41,10 @@ CSS
     width: 714px;
     height: 461px;
 }
-```css
+```
 
 PHP
+
 
 ```php
 <div id="exitPopUp">
